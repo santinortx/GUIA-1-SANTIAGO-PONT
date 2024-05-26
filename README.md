@@ -1,6 +1,8 @@
 # GUIA-1-SANTIAGO-PONT
 PUNTO 1:
+
 1) Manejo digital
+
 a) Simular el ciclo de encendido de luces de un semáforo, tanto el del auto como el peatonal al mismo tiempo.
 
 b) Prender una seria de 10 led comunes en una secuencia de escalera.
